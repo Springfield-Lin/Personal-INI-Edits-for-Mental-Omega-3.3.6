@@ -1,3 +1,9 @@
+[WeaponTypes]
+9999=NukeCarrierMADMAN
+
+[SuperWeaponTypes]
+9999=NukeSpecialMADMAN
+
 [MWF2]
 UIName=NAME:MWF
 Name=Stalin's Fist
